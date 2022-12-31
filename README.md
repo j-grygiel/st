@@ -3,6 +3,7 @@ st is a simple terminal emulator for X which sucks less.
 ## Applied Patches
 - [Blinking Cursor](https://st.suckless.org/patches/blinking_cursor/)
 - [Bold is not Bright](https://st.suckless.org/patches/bold-is-not-bright/)
+- [New Terminal in Current Working Directory](https://st.suckless.org/patches/newterm/)
 ## Requirements
 In order to build st you need the Xlib header files.
 ## Installation
